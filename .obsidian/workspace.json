@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "5ba651d33f2c9073",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f85ea7aa872ee1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4d5006911871829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Initial idea.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "73eca2f4989585b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4be34c2b8dbed150",
+    "type": "split",
+    "children": [
+      {
+        "id": "1054a313df16dee9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6dd93323be6505a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdc00511ce6aaf86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5718bf6a4da583a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47e214bbb4a163ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c10c348026533c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaaf144c97b4c6c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "031485d90bf11073",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TODO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4e370f2ce200ac9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb6183db051e6ea3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "73eca2f4989585b5",
+  "lastOpenFiles": [
+    "Initial idea.md",
+    "TODO.md"
+  ]
+}
